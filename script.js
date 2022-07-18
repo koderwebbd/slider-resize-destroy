@@ -12,19 +12,7 @@
                 groupCells: true,
                 wrapAround: true,
                 fade: false,
-                pageDots: false,
-                responsive: [
-                  {
-                    breakpoint: 1024,
-                    settings: {
-                      wrapAround: true,
-                      cellAlign: "center",
-                      freeScroll: true,
-                      prevNextButtons: true,
-                      pageDots: false
-                    }
-                  }
-                ]
+                pageDots: false
               });
 
           }else{
